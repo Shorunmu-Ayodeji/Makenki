@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Makenki
-- 👀 I’m interested in DBMS
-- 🌱 I’m currently learning SQL
+- 👋 Hi, I’m WEST
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Future jobs
 - 📫 How to reach me @ishorunmu@gmail.com
 
